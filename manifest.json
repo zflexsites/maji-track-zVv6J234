@@ -1,0 +1,21 @@
+{
+  "short_name": "Maji track",
+  "name": "Maji track",
+  "description": "Maji Track offre un service de distribution d'eau propre et pure à travers la ville. Un site web moderne et rafraîchissant pour un accès facile à une ressource essentielle.",
+  "start_url": "/?source=pwa",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/assets/icons/icon-192x192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/icons/icon-512x512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ]
+}
